@@ -24,4 +24,4 @@ To run this program, you will need to have the following installed on your compu
 
 ## UI
 
-<img width="214" alt="image" src="https://user-images.githubusercontent.com/99210659/235312671-14e2d30f-e9cc-4e90-b2cd-0e5ca4a09341.png">
+<img alt="image" src="https://user-images.githubusercontent.com/99210659/235312671-14e2d30f-e9cc-4e90-b2cd-0e5ca4a09341.png">
